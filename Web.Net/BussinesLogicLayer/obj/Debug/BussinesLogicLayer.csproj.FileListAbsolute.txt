@@ -1,0 +1,11 @@
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\EntityLayer.dll
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\bin\Debug\EntityLayer.pdb
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.AssemblyReference.cache
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.CoreCompileInputs.cache
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.CopyComplete
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+E:\Orenda\Uygulamar\Web.Net\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb
